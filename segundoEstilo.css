@@ -1,0 +1,49 @@
+.t1{
+    color: #333333 !important;
+}
+.t2{
+    color: #FFFFFF  !important;
+    background-color: #4a5d23 !important;
+}
+.t3{
+    color: #5b712b !important;
+}
+#conceptos td b, #conceptos td{
+    color: #000000 !important;
+}
+#total b, #total td{
+    color: #000000 !important;
+}
+#info_en {
+    color: #444444 !important;
+}
+label, .campo_form label {
+    color: #222222 !important;
+}
+.obligatorio, .info .i {
+    color: #B30000 !important; 
+}
+.info, #pie {
+    color: #333333 !important;
+}
+.info .i{
+    background-color: #b30000  !important;
+    color: #FFFFFF !important;
+}
+
+#garantias p, 
+#garantias .lista, .t3 + p {
+    text-align: left !important;
+}
+
+.oculto {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
